@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|c:\\users\\muham\\downloads\\vms-database(22-ntu-cs-1286 \u002622-ntu-cs-1288)\\vms-database\\v_m_s\\v_m_s\\bussiness layer\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\bussiness layer\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\bussiness layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\bussiness layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\adminselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\adminselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\checkadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\checkadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\data layer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\data layer\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\presentation layer\\adminselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\presentation layer\\adminselection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\v_m_s\\bussiness layer\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C185F8-00A7-4C62-8492-E653A5D3D045}|V_M_S\\V_M_S.csproj|solutionrelative:v_m_s\\bussiness layer\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form1.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\Form1.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form1.cs [Design]",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.933Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "checkadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\checkadmin.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\checkadmin.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\checkadmin.cs [Design]",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\checkadmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.936Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "adminselection.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\adminselection.cs [Design]",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\adminselection.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.937Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Volunteer.cs",
+              "RelativeDocumentMoniker": "V_M_S\\BUSSINESS LAYER\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Volunteer.cs",
+              "RelativeToolTip": "V_M_S\\BUSSINESS LAYER\\Volunteer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Project.cs",
+              "RelativeDocumentMoniker": "V_M_S\\BUSSINESS LAYER\\Project.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Project.cs",
+              "RelativeToolTip": "V_M_S\\BUSSINESS LAYER\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:50.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Volunteer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Volunteer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\dell\\Documents\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Volunteer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-05T17:03:49.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\Volunteer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAIwC4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-11-05T17:03:49.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\Form2.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\Form2.cs [Design]",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.944Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "adminselection.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "RelativeDocumentMoniker": "V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "RelativeToolTip": "V_M_S\\PRESENTATION LAYER\\adminselection.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwGYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\Program.cs",
+              "RelativeDocumentMoniker": "V_M_S\\Program.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\Program.cs",
+              "RelativeToolTip": "V_M_S\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Authentication.cs",
+              "RelativeDocumentMoniker": "V_M_S\\BUSSINESS LAYER\\Authentication.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\BUSSINESS LAYER\\Authentication.cs",
+              "RelativeToolTip": "V_M_S\\BUSSINESS LAYER\\Authentication.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\DATA LAYER\\Connection.cs",
+              "RelativeDocumentMoniker": "V_M_S\\DATA LAYER\\Connection.cs",
+              "ToolTip": "C:\\Users\\muham\\Downloads\\VMS-DATABASE(22-NTU-CS-1286 \u002622-NTU-CS-1288)\\VMS-DATABASE\\V_M_S\\V_M_S\\DATA LAYER\\Connection.cs",
+              "RelativeToolTip": "V_M_S\\DATA LAYER\\Connection.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAYwHAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T17:03:49.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

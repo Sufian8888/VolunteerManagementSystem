@@ -1,0 +1,17 @@
+C:\Users\dell\Documents\V_M_S\V_M_S\bin\Debug\V_M_S.exe.config
+C:\Users\dell\Documents\V_M_S\V_M_S\bin\Debug\V_M_S.exe
+C:\Users\dell\Documents\V_M_S\V_M_S\bin\Debug\V_M_S.pdb
+C:\Users\dell\Documents\V_M_S\V_M_S\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+C:\Users\dell\Documents\V_M_S\V_M_S\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.csproj.AssemblyReference.cache
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.Splashform.resources
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.Properties.Resources.resources
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.csproj.GenerateResource.cache
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.csproj.CopyComplete
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.exe
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.pdb
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.Selection.resources
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.checkadmin.resources
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.adminselection.resources
+C:\Users\dell\Documents\V_M_S\V_M_S\obj\Debug\V_M_S.Volunteer.resources
